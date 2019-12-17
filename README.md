@@ -1,6 +1,6 @@
 # The fonts I use in UX / UI projects.
 
-<table border=1 cellpading=2>
+<table border=0 cellpading=2>
 <tr>
  <td>
  <img style="border:1px solid red;" src="https://betterthansuccess.com/wp-content/uploads/2016/06/font-example-1440x720.jpg" alt="Markdown Monster icon">
