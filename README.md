@@ -1,17 +1,14 @@
 # The fonts I use in UX / UI projects.
 
-<img style="border:1px solid red;" src="https://betterthansuccess.com/wp-content/uploads/2016/06/font-example-1440x720.jpg" alt="Markdown Monster icon"/>
+<table border=1 cellpading=2>
+<tr>
+ <td>
+ <img style="border:1px solid red;" src="https://betterthansuccess.com/wp-content/uploads/2016/06/font-example-1440x720.jpg" alt="Markdown Monster icon">
+ </td>
+ </tr>
+</table>
 
-<ul>
- 
-<img style="border:1px solid red;" src="https://freedesignresources.net/wp-content/uploads/2019/11/Rocketto_Stylish_Handwritten_EmbunStudio_161119_prev_thumbnail.jpg" alt="Markdown Monster icon" width="120px" height="120px" />
+In metal typesetting, a font was a particular size, weight and style of a typeface. Each font was a matched set of type, one piece (called a "sort") for each glyph, and a typeface consisting of a range of fonts that shared an overall design.
 
-<img style="border:1px solid red;" src="https://freedesignresources.net/wp-content/uploads/2019/11/FFree_Gluottine_Modern_Calligraphy_Font_EmbunStudio_181119_Thumbnail.jpg" alt="Markdown Monster icon" width="120px" height="120px" />
+In modern usage, with the advent of digital typography, "font" is frequently synonymous with "typeface". Each style is in a separate "font file"—for instance, the typeface "Bulmer" may include the fonts "Bulmer roman", "Bulmer", "Bulmer bold" and "Bulmer extended"—but the term "font" might be applied either to one of these alone or to the whole typeface.
 
-<img style="border:1px solid red;" src="https://freedesignresources.net/wp-content/uploads/2019/11/Free_Winter_Snow_Font_wyarecreatype_131119_Thumbnail.jpg" alt="Markdown Monster icon" width="120px" height="120px" />
-
-<img style="border:1px solid red;" src="https://freedesignresources.net/wp-content/uploads/2019/11/Demo_Mistrain_Typeface_Font_EmbunStudio_101119_Thumbnail.jpg" alt="Markdown Monster icon" width="120px" height="120px" />
-
-</ul>
-
-# Free fonts
